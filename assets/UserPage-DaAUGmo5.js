@@ -1,1 +1,0 @@
-import{_ as n,c as t,o as e,f as r,d as o}from"./index-BuP0vi3k.js";const _={},a={class:"container"};function f(c,s){return e(),t("section",a,"User")}const i=n(_,[["render",f]]),d=r({__name:"UserPage",setup(c){return(s,p)=>(e(),o(i))}});export{d as default};
