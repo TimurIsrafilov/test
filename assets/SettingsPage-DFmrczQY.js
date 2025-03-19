@@ -1,0 +1,1 @@
+import{_ as c,c as s,o as e,f as o,d as _}from"./index-FqbqmEo1.js";const r={},a={class:"container"};function i(t,n){return e(),s("section",a,"Settings")}const f=c(r,[["render",i]]),d=o({__name:"SettingsPage",setup(t){return(n,p)=>(e(),_(f))}});export{d as default};
