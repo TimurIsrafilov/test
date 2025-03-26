@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as e,f as a,d as o}from"./index-CqGVvY0V.js";const s={},_={class:"container"};function p(c,n){return e(),r("section",_,"Speaker")}const f=t(s,[["render",p]]),d=a({__name:"SpeakerPage",setup(c){return(n,i)=>(e(),o(f))}});export{d as default};
